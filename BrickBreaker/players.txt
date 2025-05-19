@@ -1,0 +1,5 @@
+ruba,testing,5
+player2,test1,3
+player3,test0,0
+,,0
+john,abc,0

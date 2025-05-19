@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MenuButton
+comment0.text=\n\ A\ clickable\ button\ that\ runs\ the\ given\ action\ when\ clicked.\n
+comment1.params=label\ action
+comment1.target=MenuButton(java.lang.String,\ java.lang.Runnable)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

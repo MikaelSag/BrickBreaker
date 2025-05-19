@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=
+comment1.target=Ball()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stickToPaddle()
+comment4.params=
+comment4.target=void\ checkForLaunch()
+comment5.params=
+comment5.target=void\ moveBall()
+comment6.params=
+comment6.target=void\ checkForBrickCollision()
+comment7.params=
+comment7.target=void\ bounceHorizontal()
+comment8.params=
+comment8.target=void\ bounceVertical()
+comment9.params=
+comment9.target=void\ checkForOutOfBounds()
+numComments=10

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LoginWorld
+comment1.params=
+comment1.target=LoginWorld()
+comment2.params=
+comment2.target=void\ createPlayersFileIfNeeded()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ login()
+comment5.params=
+comment5.target=void\ register()
+comment6.params=message
+comment6.target=void\ displayMessage(java.lang.String)
+comment7.params=
+comment7.target=void\ redrawBackground()
+numComments=8

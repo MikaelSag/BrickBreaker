@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextBox
+comment1.params=prompt
+comment1.target=TextBox(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=java.lang.String\ getText()
+numComments=5

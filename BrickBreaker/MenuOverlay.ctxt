@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MenuOverlay
+comment0.text=\n\ MenuOverlay\ displays\ a\ dark\ panel\ with\ buttons\ to\n\ resume,\ restart,\ or\ quit\ the\ game.\n
+comment1.params=w
+comment1.target=MenuOverlay(MyWorld)
+comment2.params=label\ action\ x\ y
+comment2.target=void\ addButton(java.lang.String,\ java.lang.Runnable,\ int,\ int)
+comment3.params=
+comment3.target=void\ resume()
+comment4.params=
+comment4.target=void\ restart()
+comment5.params=
+comment5.target=void\ quit()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InfoDisplay
+comment1.params=initialLevel\ initialLives
+comment1.target=InfoDisplay(int,\ int)
+comment2.params=newLevel
+comment2.target=void\ setLevel(int)
+comment3.params=newLives
+comment3.target=void\ setLives(int)
+comment4.params=
+comment4.target=void\ updateImage()
+numComments=5

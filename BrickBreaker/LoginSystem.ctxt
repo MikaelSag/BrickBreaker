@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LoginSystem
+comment1.params=username\ password
+comment1.target=boolean\ register(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Register\ a\ new\ user.\n
+comment2.params=username\ password
+comment2.target=boolean\ login(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Login\ an\ existing\ user.\n
+comment3.params=username
+comment3.target=boolean\ userExists(java.lang.String)
+comment3.text=\n\ Check\ for\ existing\ username\ in\ file.\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KeyBrick
+comment0.text=\n\ Write\ a\ description\ of\ class\ KeyBrick\ here.\n\ \n
+comment1.params=
+comment1.target=KeyBrick()
+comment2.params=
+comment2.target=void\ handleCollision()
+numComments=3
