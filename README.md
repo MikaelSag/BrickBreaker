@@ -23,3 +23,12 @@
 
 5. **Run the Game**  
    Click the **Run** button in the Greenfoot interface and enjoy playing!
+
+
+## Gameplay Screenshots
+
+<img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBmainmenu.png?raw=true" width="375"/>
+<img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBlvl4.png?raw=true" width="375"/>
+<img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBlvl5.png?raw=true" width="375"/>
+<img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBgameover.png?raw=true" width="375"/>
+
