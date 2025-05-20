@@ -32,3 +32,6 @@
 <img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBlvl5.png?raw=true" width="375"/>
 <img src="https://github.com/MikaelSag/BrickBreaker/blob/main/images/BBgameover.png?raw=true" width="375"/>
 
+## Additional Documentation
+
+For details such as the domain model, functional and non-functional requirements, use cases, and non-trivial design steps, please refer to the [Wiki](https://github.com/MikaelSag/BrickBreaker/wiki) of this repository.
